@@ -38,3 +38,21 @@
 ├── stockfish.exe        # Stockfish engine binary
 ├── chromedriver.exe     # Chrome WebDriver
 └── chrome_profile_gui/  # (Auto-generated) Local browser session data
+```
+
+## 🚦 How to Use (User Guide)
+
+1.  **Setup Files**: Ensure `stockfish.exe` and `chromedriver.exe` are located in the same directory as the executable.
+2.  **Launch the App**: Run `ZapChess.exe` in your terminal or simply open `ZapChess.exe`.
+3.  **Configuration**:
+    * In the ZapChess GUI, select your side (**White** or **Black**).
+    * Set your desired **Target ELO** (e.g., 2500) and **Depth** (e.g., 14).
+4.  **Activation**: Click the **START ENGINE** button. The analysis log will confirm: `Browser ready. New Stockfish engine started!`.
+5.  **Browser Setup**: A Chrome window will open automatically. Log in to your Chess.com account and navigate to a live game.
+6.  **Real-Time Analysis**: As you or your opponent move on Chess.com, the ZapChess board will sync instantly. Follow the colored neon highlights for the best suggested moves.
+
+---
+
+## ⚠️ Disclaimer
+
+This tool is intended for **educational purposes and post-game analysis only**. Using chess assistants during live matchmaking against other players is a strict violation of Chess.com's Terms of Service and will result in a permanent account ban. **Use responsibly.**
