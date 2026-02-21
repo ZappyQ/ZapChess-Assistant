@@ -21,9 +21,6 @@
 
 ## 🛠️ Requirements
 
-### For Developers (Running from Source)
-* **Python 3.10+**
-* **Required Libraries:** ```pip install python-chess selenium customtkinter pillow```
 ### Essential Binaries (Must be in the root folder)
 * `stockfish.exe` (The Stockfish engine binary)
 * `chromedriver.exe` (Matching your installed Chrome browser version)
