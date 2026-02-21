@@ -23,10 +23,7 @@
 
 ### For Developers (Running from Source)
 * **Python 3.10+**
-* **Required Libraries:** ```bash
-    pip install python-chess selenium customtkinter pillow
-    ```
-
+* **Required Libraries:** ```pip install python-chess selenium customtkinter pillow```
 ### Essential Binaries (Must be in the root folder)
 * `stockfish.exe` (The Stockfish engine binary)
 * `chromedriver.exe` (Matching your installed Chrome browser version)
@@ -37,7 +34,7 @@
 
 ```text
 .
-├── ZapChess.exe             # Main application script
+├── ZapChess.exe         # Main application script
 ├── stockfish.exe        # Stockfish engine binary
 ├── chromedriver.exe     # Chrome WebDriver
 └── chrome_profile_gui/  # (Auto-generated) Local browser session data
