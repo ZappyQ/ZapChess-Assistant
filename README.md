@@ -53,3 +53,5 @@
 ## ⚠️ Disclaimer
 
 This tool is intended for **educational purposes and post-game analysis only**. Using chess assistants during live matchmaking against other players is a strict violation of Chess.com's Terms of Service and will result in a permanent account ban. **Use responsibly.**
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z51UE2EQ)
